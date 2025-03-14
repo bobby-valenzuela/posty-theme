@@ -19,5 +19,10 @@
 1. Download the theme file (posty.yaml).
 2. Use `posting locate themes` to locate the themes directory.
 3. Move the theme file to the themes directory.
-4. Enter posting, use `<ctrl> + p` to bring up the command palette, select "Change theme" from the menu, then set the theme to your liking. Or you can set the theme as `posty` in your posting configuration file.
+4. Preview the theme by entering posting, and using `<ctrl> + p` to bring up the command palette, select "Change theme" from the menu, then set the theme to your liking.
+5. Set theme by updating your posting configuration file like so:
+```bash
+theme: posty
+```
+   
 
